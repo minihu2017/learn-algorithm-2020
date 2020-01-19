@@ -1,2 +1,2 @@
 # learn-algorithm-2020
-learn how to use some useful algorithm
+learn how to use some useful algorithms
